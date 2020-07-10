@@ -1,7 +1,7 @@
 ### nakosung (Nako Sung)
 
-Working on AI techs for business in NAVER(https://naver.com), Clova AI(https://clova.ai).
-Before joining the AI industry, there were many game dev projects I enjoyed. The latest project was Unreal.js(https://github.com/ncsoft/unreal.js).
+Working on AI techs for business in [NAVER](https://naver.com), [Clova AI](https://clova.ai).
+Before joining the AI industry, there were many game dev projects I enjoyed. The latest project was [Unreal.js](https://github.com/ncsoft/unreal.js).
 
 Turbo Pascal was my first favorite language, but I moved on Turbo C++(MSVC), Python, Lua, Javascript and back to Python for ML.
 
@@ -12,8 +12,8 @@ Turbo Pascal was my first favorite language, but I moved on Turbo C++(MSVC), Pyt
 
 #### Previous Topics
 1. Financial AI
-2. Machine Learning Platform (NSML(https://clova.ai/en/research/research-area-detail.html?id=1))
-3. Reinforcement Learning (Mini League-of-Legend Multi agent(http://images.nvidia.com/content/gtc-kr/part_4_ncsoft.pdf) GTC Korea 2015)
+2. Machine Learning Platform ([NSML](https://clova.ai/en/research/research-area-detail.html?id=1))
+3. Reinforcement Learning ([Mini League-of-Legend Multi agent](http://images.nvidia.com/content/gtc-kr/part_4_ncsoft.pdf) GTC Korea 2015)
 4. Auto ML (NSML, Mini LOL)
 
 #### Very old topics
