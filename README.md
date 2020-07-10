@@ -1,16 +1,24 @@
-### Hi there 👋
+### nakosung (Nako Sung)
 
-<!--
-**nakosung/nakosung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working on AI techs for business in NAVER(https://naver.com), Clova AI(https://clova.ai).
+Before joining the AI industry, there were many game dev projects I enjoyed. The latest project was Unreal.js(https://github.com/ncsoft/unreal.js).
 
-Here are some ideas to get you started:
+Turbo Pascal was my first favorite language, but I moved on Turbo C++(MSVC), Python, Lua, Javascript and back to Python for ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current Topics
+1. Conversational Agents (Chat, Phone, ...)
+2. Recommendation Engines (e-Commerce, app, ...)
+3. Business Optimization (AI Speaker, e-Commerce, ...)
+
+#### Previous Topics
+1. Financial AI
+2. Machine Learning Platform (NSML(https://clova.ai/en/research/research-area-detail.html?id=1))
+3. Reinforcement Learning (Mini League-of-Legend Multi agent(http://images.nvidia.com/content/gtc-kr/part_4_ncsoft.pdf) GTC Korea 2015)
+4. Auto ML (NSML, Mini LOL)
+
+#### Very old topics
+1. Game Engines (styx, 2000)
+2. Distributed Systems (XIMP, 2000)
+3. Robotics (Dual-eyed self driving system, 1995)
+4. Chatbot (Sun host, 1992)
+5. B.B.S. (Sun host, 1992)
