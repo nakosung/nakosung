@@ -15,6 +15,7 @@ Turbo Pascal was my first favorite language, but I moved on Turbo C++(MSVC), Pyt
 2. Machine Learning Platform ([NSML](https://clova.ai/en/research/research-area-detail.html?id=1))
 3. Reinforcement Learning ([Mini League-of-Legend Multi agent](http://images.nvidia.com/content/gtc-kr/part_4_ncsoft.pdf) GTC Korea 2015)
 4. Auto ML (NSML, Mini LOL)
+5. Many game titles (including AVA, Metro Conflict, ...)
 
 #### Very old topics
 1. Game Engines (styx, 2000)
