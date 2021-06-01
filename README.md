@@ -6,9 +6,10 @@ Before joining the AI industry, there were many game dev projects I enjoyed. The
 Turbo Pascal was my first favorite language, but I moved on Turbo C++(MSVC), Python, Lua, Javascript and back to Python for ML.
 
 #### Current Topics
-1. Conversational Agents (Chat, Phone, ...)
-2. Recommendation Engines (e-Commerce, app, ...)
-3. Business Optimization (AI Speaker, e-Commerce, ...)
+1. Hyper-scale AI [HyperCLOVA](https://naver-ai-now.kr/)
+2. Conversational Agents (Chat, Phone, ...)
+3. Recommendation Engines (e-Commerce, app, ...)
+4. Business Optimization (AI Speaker, e-Commerce, ...)
 
 #### Previous Topics
 1. Financial AI
