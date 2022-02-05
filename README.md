@@ -10,6 +10,7 @@ Turbo Pascal was my first favorite language, but I moved on Turbo C++(MSVC), Pyt
 2. Conversational Agents (Chat, Phone, ...)
 3. Recommendation Engines (e-Commerce, app, ...)
 4. Business Optimization (AI Speaker, e-Commerce, ...)
+5. [Korean Wordle](https://nakosung.github.io/wordle/)
 
 #### Previous Topics
 1. Financial AI
