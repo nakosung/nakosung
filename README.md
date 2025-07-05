@@ -1,6 +1,6 @@
 ### nakosung (Nako Sung)
 
-Working on AI techs for business in [NAVER](https://naver.com), [Clova AI](https://clova.ai).
+Working on AI techs for business as Head of Hyperscale AI in [NAVER](https://naver.com), [Clova AI](https://clova.ai).
 Before joining the AI industry, there were many game dev projects I enjoyed. The latest project was [Unreal.js](https://github.com/ncsoft/unreal.js).
 
 Turbo Pascal was my first favorite language, but I moved on Turbo C++(MSVC), Python, Lua, Javascript and back to Python for ML.
